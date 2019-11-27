@@ -1,2 +1,2 @@
-# ProgressBG-Lab1
+# JavaSript-Lab1
 JavaScript Course - Atendia
